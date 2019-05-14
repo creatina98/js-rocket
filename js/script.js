@@ -29,6 +29,11 @@ var car = {
 	},
 	name: function(name) {
 	alert('My name is: '+name);
+	},
+
+	doCoolStuff: function()
+	{
+		
 	}
 };
 
